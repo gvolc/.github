@@ -26,7 +26,7 @@ We focus on clean code, solid architecture, and tools that help developers build
 
 | Project          | Status                  | Description                  |
 |------------------|-------------------------|------------------------------|
-| **kernelMesh**  | ![in development](https://img.shields.io/badge/Soon-2026-yellow) | [mesh kernel](https://gvolc.github.io/site/kernelMesh/)  |
+| **kernelMesh**  | ![in development](https://img.shields.io/badge/Dev-2026-yellow) | [mesh kernel](https://gvolc.github.io/site/kernelMesh/)  |
 
 > All projects are currently in active development. Stay tuned!
 
